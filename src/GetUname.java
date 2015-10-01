@@ -1,5 +1,3 @@
-package com.cooksys.cornerstone;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
