@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 public class GetUname {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Runtime r = Runtime.getRuntime();
 		Process p;
 		try {
